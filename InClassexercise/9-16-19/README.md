@@ -2,4 +2,4 @@
 
 This is a README sample
 
-[https://loganfinnell.github.io/Finnell_Logan_ART2210/9-16-19/9-16-19-A1.html]
+[](https://loganfinnell.github.io/Finnell_Logan_ART2210/9-16-19/9-16-19-A1.html)
