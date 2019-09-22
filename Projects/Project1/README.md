@@ -3,6 +3,10 @@
 
 # DESIGNER STATEMENT 9/22/19
 
+img {
+  width: 50%;
+}
+
 ![glass](https://loganfinnell.github.io/Finnell_Logan_ART2210/Projects/Project1/Reference_Images/glass.png)
 
 ![glass](https://loganfinnell.github.io/Finnell_Logan_ART2210/Projects/Project1/Reference_Images/poly.png)
