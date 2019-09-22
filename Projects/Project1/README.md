@@ -6,4 +6,3 @@
 ![glass](https://loganfinnell.github.io/Finnell_Logan_ART2210/Projects/Project1/Reference_Images/glass.png)
 
 ![glass](https://loganfinnell.github.io/Finnell_Logan_ART2210/Projects/Project1/Reference_Images/poly.png)
-<style="width:500px;height:600px;">
