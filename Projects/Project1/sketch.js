@@ -36,7 +36,7 @@ fill(yl);
 strokeWeight(4);
 stroke(rd);
 beginShape();
-//forehead
+//fofrehead
 vertex(1031, 425);
 vertex(1034, 421);
 vertex(1031, 414);
