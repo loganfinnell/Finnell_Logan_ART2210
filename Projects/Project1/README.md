@@ -3,4 +3,4 @@
 
 # DESIGNER STATEMENT 9/22/19
 
-![](https://creativecodingart2210fall2019section2.github.io/Finnell_Logan_ART2210/Projects/Project1/Reference_Images/glass.png)
+![](https://creativecodingart2210fall2019section2.github.io/Finnell_Logan_ART2210/raw/master/Projects/Project1/Reference_Images/glass.png)
