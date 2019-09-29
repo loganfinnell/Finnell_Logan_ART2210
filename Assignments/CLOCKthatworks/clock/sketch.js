@@ -1,8 +1,8 @@
 var gif_loadImg, gif_createImg;
 
 function preload() {
-  gif_loadImg = loadImage("https://creativecodingart2210fall2019section2.github.io/Finnell_Logan_ART2210/Assignments/CLOCKthatworks/clock/flower.gif");
-  gif_createImg = createImg("https://creativecodingart2210fall2019section2.github.io/Finnell_Logan_ART2210/Assignments/CLOCKthatworks/clock/flower.gif");
+  gif_loadImg = loadImage("flower.gif");
+  gif_createImg = createImg("flower.gif");
 }
 
 function setup() {
