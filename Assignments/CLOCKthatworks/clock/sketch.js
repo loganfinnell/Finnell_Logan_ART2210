@@ -1,3 +1,4 @@
+
 var gif_loadImg, gif_createImg;
 
 function preload() {
