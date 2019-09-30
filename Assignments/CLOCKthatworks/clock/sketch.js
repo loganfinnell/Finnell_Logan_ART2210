@@ -1,7 +1,7 @@
 var gif_loadImg, gif_createImg;
 
 function preload() {
- 
+
   gif_createImg = createImg("flower.gif");
 }
 
