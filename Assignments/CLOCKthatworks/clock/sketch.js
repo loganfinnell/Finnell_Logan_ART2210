@@ -1,16 +1,13 @@
 var gif_loadImg, gif_createImg;
 
 function preload() {
-<<<<<<< HEAD
   gif_loadImg = loadImage("flower.gif");
-=======
 
->>>>>>> 37a924a818b75f9e7bec80d516a18d1193568ecf
   gif_createImg = createImg("flower.gif");
 }
 
 function setup() {
-  createCanvas(500, 700);
+  createCanvas(windowWidth, windowHeight);
   background(0);
 }
 
