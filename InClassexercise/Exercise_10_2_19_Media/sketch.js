@@ -11,8 +11,7 @@ function setup(){
  }
   
  function draw(){// three-digit hexadecimal RGB notation
-    background('#fae');
-
+  
 
  
     image(img, 0, 0);
