@@ -12,9 +12,7 @@ function preload() {
   //pass the first and the last file name and it will try to find the ones in between
   ghost = loadAnimation('assets/ghost_standing0001.png', 'assets/ghost_standing0007.png');
 
-  //create an animation listing all the images files
-  asterisk = loadAnimation('assets/asterisk.png', 'assets/triangle.png', 'assets/square.png', 'assets/cloud.png', 'assets/star.png', 'assets/mess.png', 'assets/monster.png');
-}
+
 
 function setup() {
   createCanvas(800, 300);
