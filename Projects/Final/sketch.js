@@ -26,3 +26,4 @@ function draw() {
   animation(ghost, 300, 150);
   animation(asterisk, 500, 150);
 }
+}
