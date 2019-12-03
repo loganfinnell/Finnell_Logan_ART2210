@@ -1,19 +1,19 @@
-function Pipe(){
-this.top = random(height/2);
-this.bottom = random(height/2);
+function Bounce(){
+this.top = 0;
+this.bottom = 10;
 this.x = width;
-this.w = random(width/8);
+this.w = 80;
 this.speed = 5;
 
 
-this.highlight = false;
+this.highlight = true;
 
 this.hits = function(ball){
 if (ball.y < this.top || ball.y > height - this.bottom){
  
  if (ball.x > this.x && ball.x < this.x + this.w){
     
-    this.highlight = true;
+    
     return true;  
  }
 }
@@ -28,19 +28,15 @@ return false;
 
 
 this.show = function(){
-    
-    let FCs = ['#d93f96', '#ea4498', '#ea5a8c', ];
-    let FC = random(FCs);
-
-fill(FC);
-
-
+fill(255, 0, 0);
 strokeWeight(0);
-if (this.highlight){
 
-    let HCs = ['#8811a5', '#c918df', '#b712e5', ];
+
+
+if (this.highlight){
+    let HCs = ['#D7D700', '#FFFF00'];
     let HC = random(HCs);
-    
+
     fill (HC);
 }
 

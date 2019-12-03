@@ -7,7 +7,7 @@
   
 	this.display = function() {
 	
-	  fill(175); 
+	  fill(255); 
 	  stroke(0); 
 
 	  if (keyIsDown(LEFT_ARROW)) {
