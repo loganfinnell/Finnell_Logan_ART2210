@@ -7,6 +7,10 @@ var pipesCleared
 
 var gravity = .5;
 
+
+
+
+//yeet
 function setup() {
 	
 	createCanvas(windowWidth, windowHeight);
