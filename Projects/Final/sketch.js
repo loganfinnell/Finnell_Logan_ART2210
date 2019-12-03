@@ -1,30 +1,57 @@
-//Creating animations
 
-//animations like p5 images should be stored in variables
-//in order to be displayed during the draw cycle
-var ghost, asterisk;
+var ball;
+var ball1;
+var ball2;
+var pipes = [];
+var pipesCleared
 
-//it's advisable (but not necessary) to load the images in the preload function
-//of your sketch otherwise they may appear with a little delay
-function preload() {
-
-  //create an animation from a sequence of numbered images
-  //pass the first and the last file name and it will try to find the ones in between
-  ghost = loadAnimation('https://loganfinnell.github.io/Finnell_Logan_ART2210/Projects/Project2/Reference_Images/glass.png', 'https://loganfinnell.github.io/Finnell_Logan_ART2210/Projects/Project1/Reference_Images/glass.png');
-
-  //create an animation listing all the images files
-  asterisk = loadAnimation('assets/asterisk.png', 'assets/triangle.png', 'assets/square.png', 'assets/cloud.png', 'assets/star.png', 'assets/mess.png', 'assets/monster.png');
-}
+var gravity = .5;
 
 function setup() {
-  createCanvas(800, 300);
+	
+	createCanvas(windowWidth, windowHeight);
+	pipesCleared = 0
+
+	ball1 = new Ball(150, windowHeight/2, 25);
+	pipes.push(new Pipe());
 }
 
 function draw() {
-  background(255, 255, 255);
+	background(51);
+	
+	
+	for (var i = pipes.length-1; i >= 0; i--){
+		pipes[i].show();
+		pipes[i].update();
 
-  //specify the animation instance and its x,y position
-  //animation() will update the animation frame as well
-  animation(ghost, 300, 150);
-  animation(asterisk, 500, 150);
+
+		if (pipes[i].hits(ball1)){
+console.log("HIT");
+pipesCleared--
+		}
+
+		if(pipes[i].offscreen()){
+			pipes.splice(i, 1);
+			pipesCleared += 2
+		}
+	}
+
+	ball1.display();
+
+	ball1.update();
+
+
+	fill(255)
+	textSize(40)
+	text('SCORE: ' + pipesCleared, 50, 50)
+
+	
+	if (frameCount % 150 == 0){
+		pipes.push(new Pipe());
+		
+			}
+
 }
+
+
+
