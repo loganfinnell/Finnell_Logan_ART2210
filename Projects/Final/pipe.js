@@ -35,7 +35,8 @@ this.show = function(){
 fill(FC);
 
 
-strokeWeight(0);
+strokeWeight(3);
+stroke(255);
 if (this.highlight){
 
     let HCs = ['#8811a5', '#c918df', '#b712e5', ];

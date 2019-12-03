@@ -1,7 +1,7 @@
-# Finnell Logan Project 1
-[Logan Finnell Portrait](https://creativecodingart2210fall2019section2.github.io/Finnell_Logan_ART2210/Projects/Final/Final.html)
+# Finnell Logan Final Project
+[Logan Finnell Bouncy Ball Marky](https://creativecodingart2210fall2019section2.github.io/Finnell_Logan_ART2210/Projects/Final/Final.html)
 
-# DESIGNER STATEMENT 9/22/19
+# DESIGNER STATEMENT 12/5/19
 
 ![glass](https://github.com/creativeCodingART2210Fall2019Section2/Finnell_Logan_ART2210/blob/master/Projects/Final/assets/gameref.png)
 My inspiration for this project came from discovering 3-D objects in the reference library. Originally I wanted to make a 3-D portrait that resembled a stained glass window, but I instead to just make a more detailed drawing overall. 
