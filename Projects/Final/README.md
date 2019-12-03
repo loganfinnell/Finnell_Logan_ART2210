@@ -3,7 +3,7 @@
 
 # DESIGNER STATEMENT 9/22/19
 
-![glass](https://loganfinnell.github.io/Finnell_Logan_ART2210/Projects/Final/assets/artref.png)
+![glass](https://loganfinnell.github.io/Finnell_Logan_ART2210/Projects/Final/assets/artref1.png)
 
 ![glass](https://loganfinnell.github.io/Finnell_Logan_ART2210/Projects/Final/assets/gameref.png)
 My inspiration for this project came from discovering 3-D objects in the reference library. Originally I wanted to make a 3-D portrait that resembled a stained glass window, but I instead to just make a more detailed drawing overall. 
