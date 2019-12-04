@@ -12,7 +12,7 @@ Difficulty increases as you gain points
 
 The yellow jump pads can boost the ball up or remove all of its speed
 
-![glass](https://github.com/creativeCodingART2210Fall2019Section2/Finnell_Logan_ART2210/blob/master/Projects/Final/assets/gameref.png)
+![moodboard](https://github.com/creativeCodingART2210Fall2019Section2/Finnell_Logan_ART2210/blob/master/Projects/Final/assets/gameref.png)
 
 # DESIGNER STATEMENT 12/04/19
 
