@@ -6,8 +6,7 @@
 
  -> Moves ball to the right (Moving ball from side to side also reduces speed/velocity)
 
- |
- V  Moves the ball downwards faster
+ |<br>V  Moves the ball downwards faster
 
 Every time a wall clears the screen you will gain 2 points, and every time you hit one you will lose points
 
