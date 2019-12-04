@@ -2,11 +2,9 @@
 [Marky Mark](https://creativecodingart2210fall2019section2.github.io/Finnell_Logan_ART2210/Projects/Final/Final.html)
 
 # CONTROLS
- <- Moves ball to the left
+ ↔ Moves ball to the from side to side but also reduces speed/velocity
 
- -> Moves ball to the right (Moving ball from side to side also reduces speed/velocity)
-
- |<br>V  Moves the ball downwards faster
+↓  Moves the ball downwards faster 
 
 Every time a wall clears the screen you will gain 2 points, and every time you hit one you will lose points
 
