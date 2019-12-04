@@ -2,13 +2,18 @@
 [Marky Mark](https://creativecodingart2210fall2019section2.github.io/Finnell_Logan_ART2210/Projects/Final/Final.html)
 
 # CONTROLS
-# <- Moves ball to the left
-# -> Moves ball to the right (Moving ball from side to side also reduces speed/velocity)
-# |
-# 
-<i style='font-size:24px' class='fas'>&#xf104;</i>
+ <- Moves ball to the left
 
+ -> Moves ball to the right (Moving ball from side to side also reduces speed/velocity)
 
+ |
+ V  Moves the ball downwards faster
+
+Every time a wall clears the screen you will gain 2 points, and every time you hit one you will lose points
+
+Difficulty increases as you gain points
+
+The yellow jump pads can boost the ball up or remove all of its speed
 
 ![glass](https://github.com/creativeCodingART2210Fall2019Section2/Finnell_Logan_ART2210/blob/master/Projects/Final/assets/gameref.png)
 
