@@ -2,7 +2,7 @@
 [Marky Mark](https://creativecodingart2210fall2019section2.github.io/Finnell_Logan_ART2210/Projects/Final/Final.html)
 
 # CONTROLS
- ↔ Moves ball to the from side to side but also reduces speed/velocity
+ ↔ Moves ball side to side but also reduces speed/velocity
 
 ↓  Moves the ball downwards faster 
 
